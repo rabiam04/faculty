@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+xmlns:fd="http://www.comsatslinkeddata.com/faculty#"> 
+<rdf:Description
+ rdf:about="http://www.comsatslinkeddata.com/faculty/Dr.MajidIqbalKhan">
+ 
+  <fd:post>HOD, CIIT Islamabad</fd:post>
+  <fd:email>majid_iqbal@comsats.edu.pk</fd:email>
+  <fd:phone>+92 51 9049 5324</fd:phone>
+ 
+<fd:publication1>Fine-Grained Analysis of Packet Loss in MANETs</fd:publication1>
+<fd:publication2>Isolating Misbehaving Nodes in MANETs with an Adaptive Trust Threshold Strategy</fd:publication2>
+<fd:publication3>Data Rate Adaptation Strategy to Avoid Packet Loss in MANETs</fd:publication3>
+<fd:publication4>Mitigation of Packet Loss Using Data Rate Adaptation Scheme in MANETs</fd:publication4>
+<fd:publication5>A survey of cloud computing data integrity schemes: Design challenges, taxonomy and future trends</fd:publication5>
+<fd:publication6>MATF: a multi-attribute trust framework for MANETs</fd:publication6>
+<fd:publication7>Adaptive Reputation Weights Assignment Scheme for MANETs</fd:publication7>
+<fd:publication8>A Scalable Data Integrity Mechanism Based on Provable Data Possession and JARs</fd:publication8>
+<fd:publication9>An Enhanced Energy Balanced Data Transmission Protocol for Underwater Acoustic Sensor Networks</fd:publication9>
+<fd:publication10>Fuzzy-Based Trust Model for Detection of Selfish Nodes in MANETs</fd:publication10>
+<fd:publication11>On Energy Hole and Coverage Hole Avoidance in Underwater Wireless Sensor Networks</fd:publication11>
+<fd:publication12>Sink mobility aware energy efficient network integrated super heterogeneous protocol for WSNs</fd:publication12>
+<fd:publication13>Adaptive Trust Update Frequency in MANETs</fd:publication13>
+<fd:publication14>A Test-Bed Based Evaluation of Pervasive Fall Detection Schemes</fd:publication14>
+<fd:publication15>An Efficient Data-Gathering Routing Protocol for Underwater Wireless Sensor Networks</fd:publication15>
+<fd:publication16>Adaptive Trust Threshold Strategy for Misbehaving Node Detection and Isolation</fd:publication16>
+<fd:publication17>Towards Network Lifetime Maximization: Sink Mobility Aware Multi-hop Scalable Hybrid Energy Efficient Protocols for Terrestrial WSNs</fd:publication17>
+<fd:publication18>An Accelerometer-Based Approach to Evaluate 3D Unistroke Gestures</fd:publication18>
+<fd:publication19>2nd International Conference on Mobile and Wireless Technology (ICMWT2015)</fd:publication19>
+<fd:publication20>Efficient scheduling of sporadic tasks for real-time wireless sensor networks</fd:publication20>
+<fd:publication21>Collaborative learning using tabletop and interactive whiteboard systems</fd:publication21>
+<fd:publication22>Modeling Enhancements in Routing Protocols under Mobility and Scalability Constraints in VANETs</fd:publication22>
+<fd:publication23>Reactive GTS allocation protocol for sporadic events using the IEEE 802.15.4</fd:publication23>
+<fd:publication24>Design of interactive whiteboard system for collaborative learning</fd:publication24>
+<fd:publication25>Implementation and Comparative Analysis of the Fault Attacks on AES</fd:publication25>
+<fd:publication26>Comparison of Proactive vs. Reactive Localization Protocols for Wireless Sensor Networks</fd:publication26>
+<fd:publication27>Quantitative comparisons of the state-of-the-art data center architectures</fd:publication27>
+<fd:publication28>Comparative study of trust and reputation systems for wireless sensor networks</fd:publication28>
+<fd:publication29>Static vs. Mobile sink: The influence of basic parameters on energy efficiency in wireless sensor networks</fd:publication29>
+<fd:publication30>A survey on Green communications using Adaptive Link Rate</fd:publication30>
+<fd:publication31>SMMAG: SNMP-Based MPLS-TE Management Using Mobile Agents</fd:publication31>
+<fd:publication32>File System Level Circularity Requirement</fd:publication32>
+<fd:publication33>WSN-Based Fire Detection and Escape System with Multi-modal Feedback</fd:publication33>
+<fd:publication34>Identifying the Boundary of a Wireless Sensor Network with a Mobile Sink</fd:publication34>
+<fd:publication35>Energy consumption vs. latency in a new boundary identification method for WSNs with a mobile sink</fd:publication35>
+<fd:publication36>Congestion Avoidance and Energy Efficient Routing Protocol for Wireless Sensor Networks with aMobile Sink</fd:publication36>
+<fd:publication37>In-Network Storage Model for Data Persistence under Congestion in Wireless Sensor Network</fd:publication37>
+<fd:publication38>Supercomputing: A Roadmap for the OIC Member States</fd:publication38>
+  
+<fd:coursetaught1>Computer Communication and Networking</fd:coursetaught1>
+<fd:coursetaught2>Challenged Networks</fd:coursetaught2>
+<fd:coursetaught3>Introduction to Computers and Programming</fd:coursetaught3>
+
+<fd:projects1>Locating the mobile entities</fd:projects1>
+  
+<fd:collaboration1>Muhammad Saleem Khan</fd:collaboration1>
+<fd:collaboration2>Nadeem Javaid</fd:collaboration2>
+<fd:collaboration3>Wilfried Gansterer</fd:collaboration3>
+<fd:collaboration4>Zahoor Ali Khan</fd:collaboration4>
+<fd:collaboration5>Elisa Bertino</fd:collaboration5>
+
+  <fd:fundings></fd:fundings>
+  
+<fd:skills1>Routing Protocols</fd:skills1>
+<fd:skills2>Network</fd:skills2>
+<fd:skills3>Network Protocols</fd:skills3>
+<fd:skills4>Routing</fd:skills4>
+<fd:skills5>Wireless Computing</fd:skills5>  
+<fd:skills6>Wireless Sensor Network</fd:skills6>
+
+
+
+  
+  <fd:affiliations></fd:affiliations>
+  
+  
+  
+  
+  
+</rdf:Description>
+
+</rdf:RDF>
+
+
+
