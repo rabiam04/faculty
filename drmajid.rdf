@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rdf:RDF
 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
-xmlns:fd="http://www.comsatslinkeddata.com/faculty#"> 
+xmlns:fd="https://github.com/rabiam04/faculty/blob/rdf/faculty#"> 
 <rdf:Description
  rdf:about="https://github.com/rabiam04/faculty/blob/rdf/drmajid.rdf">
  
