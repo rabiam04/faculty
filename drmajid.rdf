@@ -7,13 +7,13 @@
          xmlns:cert="http://www.w3.org/ns/auth/cert#"
          xmlns:dc="http://purl.org/dc/terms/">
 
-  <foaf:PersonalProfileDocument rdf:about="http://linkedata.com/vivo.rdf">
+  <foaf:PersonalProfileDocument rdf:about="https://github.com/rabiam04/faculty/blob/master/drmajid.rdf">
     <rdfs:label>Dr Majid Iqbal VIVO File</rdfs:label>
-    <foaf:maker rdf:resource="http://linkedata.com/"/>
-    <foaf:primaryTopic rdf:resource="http://linkedata.com/"/>
+    <foaf:maker rdf:resource="https://github.com/rabiam04/faculty/blob/master/"/>
+    <foaf:primaryTopic rdf:resource="https://github.com/rabiam04/faculty/blob/master/"/>
   </foaf:PersonalProfileDocument>
 
-  <foaf:Person rdf:about="http://linkedata.com/">
+  <foaf:Person rdf:about="https://github.com/rabiam04/faculty/blob/master/">
     <foaf:name>Dr Majid Iqbal Khan</foaf:name>
     <foaf:title>Dr</foaf:title>
     <foaf:givenName>Majid</foaf:givenName>
