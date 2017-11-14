@@ -8,11 +8,11 @@
 
   <foaf:PersonalProfileDocument rdf:about="https://github.com/rabiam04/faculty/blob/rdf/drmajid.rdf">
     <rdfs:label>Nicholas Humfrey's FOAF File</rdfs:label>
-    <foaf:maker rdf:resource="https://github.com/rabiam04/faculty/blob/rdf/drmajid.rdf"/>
-    <foaf:primaryTopic rdf:resource="https://github.com/rabiam04/faculty/blob/rdf/drmajid.rdf"/>
+    <foaf:maker rdf:resource="https://github.com"/>
+    <foaf:primaryTopic rdf:resource="https://github.com/"/>
   </foaf:PersonalProfileDocument>
 
-  <foaf:Person rdf:about="https://github.com/rabiam04/faculty/blob/rdf/drmajid.rdf">
+  <foaf:Person rdf:about="https://github.com/">
     <foaf:name>Nicholas J Humfrey</foaf:name>
     <foaf:title>Mr</foaf:title>
     <foaf:givenName>Nicholas</foaf:givenName>
